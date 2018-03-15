@@ -1,4 +1,4 @@
 program hola;
 begin
-    writeln('hola');
+    writeln('hola como va');
 end.
