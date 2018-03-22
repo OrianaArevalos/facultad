@@ -8,17 +8,22 @@ type
   archivos_articulos = file of art;
 procedure crearArchivo(var arcArtic:archivos_articulos);
 var
-  carga:text;
+  carga:Text;
   articulo:art;
+  aux:string;
 begin
+  writeln('hola antes de carga.txt');
   assign(carga,'carga.txt');
+  writeln('dsp de encontrar carga.txt');
   rewrite(arcArtic);
   reset(carga);
+  writeln('adentro de la opcion1');
   repeat
     with articulo do
      begin
-      read(carga,nombre);
-      readln(carga,descripcion,stock);
+      readln(carga,nombre);
+      readln(carga,descripcion,aux);
+      Val(aux,stock);
     end;
     write(arcArtic,articulo);
   until (EOF(carga));
@@ -74,7 +79,7 @@ begin
     begin
       read(arcArtic,articulo);
       with articulo do
-        write(perfumeria,nombre,descripcion,stock);
+        writeln(perfumeria,nombre,descripcion,stock);
     end;
   close(arcArtic);
   close(perfumeria);
@@ -94,7 +99,7 @@ begin
       begin
         writeln('Ingrese el nombre del archivo');
         readln(nombArchivo);
-        assign(arcArtic,nombArchivo);
+        assign(arcArtic,'ejercicio6.dat');
     end;
     case opc of
         1: begin

@@ -12,13 +12,13 @@ var
   libroText : text;
   libro:lib;
 begin
-  assign(libroText,'libro.txt');
+  assign(libroText,'libros.txt');
   rewrite(arcLib);
   reset(libroText);
   repeat
       with(libro)do 
         begin
-          read(libroText,ISBN,nombre,precio,codEditorial);
+          read(libroText,precio,codEditorial,ISBN,nombre);
         end; 
         write(arcLib,libro);
   until (EOF(arcLib));
