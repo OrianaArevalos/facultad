@@ -1,0 +1,8 @@
+123 80 10 45.50
+lavandina
+1234 90 20 12.25
+jabon
+1244 20 5 10
+shampoo
+1420 10 5 15.50
+acondicionador

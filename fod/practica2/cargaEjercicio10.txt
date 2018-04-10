@@ -1,0 +1,14 @@
+BSAS
+10 10
+Catamarca
+20 20
+Misiones
+30 30 
+Mendoza
+40 40
+Salta
+50 50
+Jujuy
+60 60
+San Juan
+70 70

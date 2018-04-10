@@ -1,0 +1,51 @@
+Continente: America
+Pais: Argentina
+Ciudad  cantHomb  cantMuj  totHab
+La Plata  20  10  30
+Total de habitante pais: 30
+Total de habitante continente: 30
+Continente: America 
+Pais: Argentina
+Ciudad  cantHomb  cantMuj  totHab
+Berisso  69  78  147
+Total de habitante pais: 147
+Total de habitante continente: 147
+Continente: America
+Pais: Argentina
+Ciudad  cantHomb  cantMuj  totHab
+Ensenada  484  487  971
+Total de habitante pais: 971
+Total de habitante continente: 971
+Continente: America 
+Pais: Argentina
+Ciudad  cantHomb  cantMuj  totHab
+Azul  458  784  1242
+Total de habitante pais: 1242
+Pais: Brasil
+Ciudad  cantHomb  cantMuj  totHab
+Florianopolis  152  785  937
+Total de habitante pais: 937
+Total de habitante continente: 2179
+Continente: America
+Pais: Brasil
+Ciudad  cantHomb  cantMuj  totHab
+Rio De Janeiro  25  485  510
+Total de habitante pais: 510
+Total de habitante continente: 510
+Continente: Asia
+Pais: Brasil
+Ciudad  cantHomb  cantMuj  totHab
+Bahia Blanca  552  48  600
+Azul  52  78  130
+Total de habitante pais: 730
+Pais: Rusia
+Ciudad  cantHomb  cantMuj  totHab
+soy una ciudad  25  45  70
+Total de habitante pais: 70
+Total de habitante continente: 800
+Continente: Africa
+Pais: soy un pais
+Ciudad  cantHomb  cantMuj  totHab
+soy una ciudad de Africa  25  45  70
+Total de habitante pais: 70
+Total de habitante continente: 70

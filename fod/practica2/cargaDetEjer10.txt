@@ -1,0 +1,12 @@
+BSAS
+1 10 10
+BSAS
+2 15 30
+BSAS
+3 20 20
+Salta
+4 25 40
+Salta
+5 30 30
+Jujuy
+6 35 50

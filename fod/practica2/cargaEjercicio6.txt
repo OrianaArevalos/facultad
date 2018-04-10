@@ -1,0 +1,36 @@
+20 1 12 15.20 111 Oriana 
+Arevalos
+20 1 12 15.20 111 Oriana 
+Arevalos
+20 1 16 20 111 Oriana
+Arevalos
+20 2 16 30 111 Oriana
+Arevalos
+30 1 17 60 111 Oriana
+Arevalos
+40 2 15 89 111 Oriana
+Arevalos
+40 2 2 90 111 Oriana
+Arevalos
+40 3 1 100 111 Oriana
+Arevalos
+40 3 6 100 111 Oriana
+Arevalos
+40 3 9 100 222 Nnacy
+Sotelo
+40 3 45 100 222 Nnacy
+Sotelo
+40 4 12 200 222 Nnacy
+Sotelo
+40 5 23 23.65 222 Nnacy
+Sotelo
+60 6 2 100 222 Nnacy
+Sotelo
+60 6 3 100 222 Nnacy
+Sotelo
+60 6 3 100 222 Nnacy
+Sotelo
+60 6 12 55.50 333 Rafael
+Arevalos
+61 7 36 100 333 Rafael
+Arevalos

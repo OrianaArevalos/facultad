@@ -1,0 +1,40 @@
+America
+Argentina
+La Plata
+10 20
+America 
+Argentina
+Berisso
+78 69
+America
+Argentina
+Ensenada
+487 484
+America 
+Argentina
+Azul
+784 458
+America 
+Brasil
+Florianopolis
+785 152
+America
+Brasil
+Rio De Janeiro
+485 25
+Asia
+Brasil
+Bahia Blanca
+48 552
+Asia
+Brasil
+Azul
+78 52
+Asia
+Rusia
+soy una ciudad
+45 25
+Africa
+soy un pais
+soy una ciudad de Africa
+45 25
