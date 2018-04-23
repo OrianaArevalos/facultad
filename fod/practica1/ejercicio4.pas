@@ -1,4 +1,4 @@
-program P1Ej4ori;
+program ejercicio4;
 type
   alum = record
     apellido : string[30];

@@ -1,0 +1,26 @@
+0045 queso  
+167.98 52  40
+0234 mayonesa
+45.65 100 10
+1222 arroz
+22.34 34 12
+1234 flan
+57.29 0 0
+2345 fideos
+36.98 0 0
+3453 banana
+12.6 0 0
+3458 naranja
+22.98 0 0
+4352 zapallo
+43.67 0 0
+4378 chocolate aguila
+178.54 0 0
+4534 chocolate oreo
+200.45 0 0
+4564 salchichas
+67.45 0 0
+5555 paty
+43.56 0 0
+5643 ñoquis
+55.98 0 0
