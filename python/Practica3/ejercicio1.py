@@ -8,7 +8,6 @@ colores = string[0].split('&')
 coordenadas = string[1].split('&')
 print(colores)
 print(coordenadas)
-import random
 diccionario={}
 for clave in coordenadas:
     indice = random.randrange(5)

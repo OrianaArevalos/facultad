@@ -3,6 +3,7 @@ from pattern.es import INFINITIVE,verbs
 def verbosInfinitivos(cadena):
     lista = []
     palabras = parse(cadena).split()
+    print(palabras)
     for x in palabras:
         for y in x:
              if ((y[1] == 'VB') or (y[1])=='VBI'):

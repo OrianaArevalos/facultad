@@ -1,0 +1,1 @@
+(15, 78)&blanco/(15, 26)&amarillo/(45, 45)&azul/(785, 1563)&amarillo/(4548, 546)&rojo/
