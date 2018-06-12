@@ -24,7 +24,8 @@ def modificoDatos():
         archivo = open("archivoJugadores.txt","w")
         json.dump(lista,archivo)
     else:
-        archivo = open("archivoJugadores.txt","a")
-        datos = {"nombre":nombre,"nivel":nivel,"puntaje":puntaje,"tiempo":tiempo}
-        json.dump(datos,archivo)
+        archivo = open("archivoJugadores.txt","w")
+        dic = {"nombre":nombre,"nivel":nivel,"puntaje":puntaje,"tiempo":tiempo}
+        lista.append(dic)
+        json.dump(lista,archivo)
 modificoDatos()

@@ -1,0 +1,1 @@
+["archivo.txt", {"dir01": ["gta.jpg", "segaton.jpg", "debug.jpg", "meme.jpg"], "dir02": ["school.jpg"], "dir00": ["d.png", "a.png", {"djsakljdas": []}]}]
